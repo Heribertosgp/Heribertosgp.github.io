@@ -44,5 +44,23 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ### Social media <!--Incluye únicamente información pública -->
 
+### Artículos y otros textos en español 
+
+### Some texts in English
+
+<?php
+echo "My first PHP script!";
+?>
+
+### Linguistic and writing resources
+
+### Linux
+
+```markdown
+<code>
+root@fedora$ dnf install focuswriter
+</code>
+```
+
 
 ### Contact
