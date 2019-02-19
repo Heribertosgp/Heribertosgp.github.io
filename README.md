@@ -43,6 +43,10 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 <p>On this page you will find some links related to my social networks, publications and contact information.</p>
 
 ### Social media <!--Incluye únicamente información pública -->
+[Keybase](https://keybase.pub/heribertosgp/)
+[Linkedin](https://www.linkedin.com/in/heribertosierra)
+[Twitter](https://twitter.com/abyectos)
+
 
 ### Artículos y otros textos en español 
 
