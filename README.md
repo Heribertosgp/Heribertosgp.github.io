@@ -47,7 +47,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 [Linkedin](https://www.linkedin.com/in/heribertosierra)
 [Twitter](https://twitter.com/abyectos)
 
-
+<!--
 ### Artículos y otros textos en español 
 
 ### Some texts in English
@@ -58,13 +58,19 @@ echo "My first PHP script!";
 
 ### Linguistic and writing resources
 
+
+
 ### Linux
 
 ```markdown
 <code>
+root@fedora$ dnf update
+root@fedora$ dnf upgrade
 root@fedora$ dnf install focuswriter
 </code>
 ```
-
+-->
 
 ### Contact
+
+<p>heribertosgp@gmail.com</p>
